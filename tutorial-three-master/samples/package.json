@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "format" : "prettier --write '*.{html,js,css}' --single-quote --print-width=120"
+  },
+  "dependencies": {
+    "@types/three": "^0.131.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
