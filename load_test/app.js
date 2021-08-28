@@ -58,7 +58,6 @@ $(function() {
         action.play()
 		})
 
-    
     function animate() {
         if (mixer) mixer.update(0.017);
       
